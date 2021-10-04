@@ -7,6 +7,6 @@ SETLIST {
     color: #000000;
 }
 
-ARTIST {display:block;font-style: oblique; font-size:50px;}
+ARTIST {display:block;font-weight: 300px; font-size:50px;}
 TITLE {display: block;font-size:40px;}
 GENRE, YEAR {display: block;font-style: italic; font-size:25px;}
