@@ -1,15 +1,12 @@
-body {
-    background-image: url(background.jpeg);
-    background-position-x: center;
-    background-size: 100%;
-}
-
 SETLIST {
-        text-align: left;
-        margin-left: 15px;
+    background-image: url(background.jpeg);
+    width: 100%;
+    background-position-x: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    color: black;
 }
 
-ARTIST {font-family:'Courier New', Courier, monospace; color: black; font-style: oblique; font-size:25px}
-TITLE {font-family:'Courier New', Courier, monospace; color: black; font-size:21px}
-GENRE {font-family:'Courier New', Courier, monospace; color: black; font-style: italicl; font-size:18px}  
-YEAR {font-family:'Courier New', Courier, monospace; color: black; font-style: italic; font-size:18px}
+ARTIST {font-style: oblique; font-size:50px}
+TITLE {font-size:40px}
+GENRE, YEAR {font-style: italic; font-size:25px}
