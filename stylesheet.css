@@ -4,7 +4,7 @@ SETLIST {
     background-position-x: center;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
-    color: #ffffff;
+    color: #000000;
 }
 
 ARTIST {display:block;font-style: oblique; font-size:50px;}
