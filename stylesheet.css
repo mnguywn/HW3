@@ -1,0 +1,7 @@
+body {
+    background-image: url(background.jpeg);
+    background-position-x: center;
+    background-size: 100%;
+
+    font-family: raleway;
+}
