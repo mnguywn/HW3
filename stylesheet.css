@@ -4,9 +4,9 @@ SETLIST {
     background-position-x: center;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
-    color: black;
+    color: #000000;
 }
 
-ARTIST {font-style: oblique; font-size:50px; display:block;}
-TITLE {font-size:40px; display: block;}
-GENRE, YEAR {font-style: italic; font-size:25px; display: block;}
+ARTIST {display:block;font-style: oblique; font-size:50px;}
+TITLE {display: block;font-size:40px;}
+GENRE, YEAR {display: block;font-style: italic; font-size:25px;}
