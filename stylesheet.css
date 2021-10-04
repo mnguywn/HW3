@@ -7,6 +7,6 @@ SETLIST {
     color: #000000;
 }
 
-ARTIST {display:block;font-size:45px;}
-TITLE {text-indent: 1em; display: block;font-size:40px;}
+ARTIST {display:block;font-weight: 300px; font-size:40px;}
+TITLE {text-indent: 2em; display: block;font-size:33px;}
 GENRE, YEAR {text-indent: 3em; display: block; font-style: italic; font-size:25px;}
