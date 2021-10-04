@@ -3,7 +3,13 @@ body {
     background-position-x: center;
     background-size: 100%;
 }
-ARTIST {font-family:'Courier New', Courier, monospace; color: black; font-size: 25px}
-TITLE {font-family:'Courier New', Courier, monospace; color: black; font-size: 21px}
-GENRE {font-family:'Courier New', Courier, monospace; color: black; font-size: 18px}  
+
+SETLIST {
+        text-align: left;
+        margin-left: 15px;
+}
+
+ARTIST {font-family:'Courier New', Courier, monospace; color: black; font-size:25px}
+TITLE {font-family:'Courier New', Courier, monospace; color: black; font-size:21px}
+GENRE {font-family:'Courier New', Courier, monospace; color: black; font-size:18px}  
 YEAR {font-family:'Courier New', Courier, monospace; color: black; font-size:18px}
