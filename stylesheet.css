@@ -2,6 +2,8 @@ body {
     background-image: url(background.jpeg);
     background-position-x: center;
     background-size: 100%;
-
-    font-family: raleway;
 }
+ARTIST {font-family:'Courier New', Courier, monospace; color: black; font-size: 25px}
+TITLE {font-family:'Courier New', Courier, monospace; color: black; font-size: 21px}
+GENRE {font-family:'Courier New', Courier, monospace; color: black; font-size: 18px}  
+YEAR {font-family:'Courier New', Courier, monospace; color: black; font-size:18px}
