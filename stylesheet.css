@@ -9,7 +9,7 @@ SETLIST {
         margin-left: 15px;
 }
 
-ARTIST {font-family:'Courier New', Courier, monospace; color: black; font-size:25px}
+ARTIST {font-family:'Courier New', Courier, monospace; color: black; font-style: oblique; font-size:25px}
 TITLE {font-family:'Courier New', Courier, monospace; color: black; font-size:21px}
-GENRE {font-family:'Courier New', Courier, monospace; color: black; font-size:18px}  
-YEAR {font-family:'Courier New', Courier, monospace; color: black; font-size:18px}
+GENRE {font-family:'Courier New', Courier, monospace; color: black; font-style: italicl; font-size:18px}  
+YEAR {font-family:'Courier New', Courier, monospace; color: black; font-style: italic; font-size:18px}
