@@ -8,5 +8,5 @@ SETLIST {
 }
 
 ARTIST {display:block;font-weight: 300px; font-size:50px;}
-TITLE {text-indent: 3em; display: block;font-size:40px;}
+TITLE {text-indent: 2em; display: block;font-size:40px;}
 GENRE, YEAR {text-indent: 3em; display: block; font-style: italic; font-size:25px;}
